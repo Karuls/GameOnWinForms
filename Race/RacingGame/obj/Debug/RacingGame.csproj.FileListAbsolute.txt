@@ -1,0 +1,10 @@
+Q:\Games\Race\RacingGame\bin\Debug\RacingGame.exe.config
+Q:\Games\Race\RacingGame\bin\Debug\RacingGame.exe
+Q:\Games\Race\RacingGame\bin\Debug\RacingGame.pdb
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.Form1.resources
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.cache
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.exe
+Q:\Games\Race\RacingGame\obj\Debug\RacingGame.pdb

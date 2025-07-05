@@ -1,0 +1,10 @@
+Q:\Games\Doodle Jump\bin\Debug\Doodle Jump.exe.config
+Q:\Games\Doodle Jump\bin\Debug\Doodle Jump.exe
+Q:\Games\Doodle Jump\bin\Debug\Doodle Jump.pdb
+Q:\Games\Doodle Jump\obj\Debug\Doodle Jump.csproj.AssemblyReference.cache
+Q:\Games\Doodle Jump\obj\Debug\Doodle_Jump.Form.resources
+Q:\Games\Doodle Jump\obj\Debug\Doodle_Jump.Properties.Resources.resources
+Q:\Games\Doodle Jump\obj\Debug\Doodle Jump.csproj.GenerateResource.cache
+Q:\Games\Doodle Jump\obj\Debug\Doodle Jump.csproj.CoreCompileInputs.cache
+Q:\Games\Doodle Jump\obj\Debug\Doodle Jump.exe
+Q:\Games\Doodle Jump\obj\Debug\Doodle Jump.pdb
